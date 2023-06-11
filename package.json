@@ -1,0 +1,25 @@
+{
+  "name": "steam-random-user-id",
+  "version": "0.0.1",
+  "description": "Small and simple tool that generates random steam user id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo yesn't"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zordon1337/Random-Steam-User-ID.git"
+  },
+  "keywords": [
+    "steam",
+    "steamuser",
+    "random",
+    "steamid"
+  ],
+  "author": "Zordon1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zordon1337/Random-Steam-User-ID/issues"
+  },
+  "homepage": "https://github.com/Zordon1337/Random-Steam-User-ID#readme"
+}
